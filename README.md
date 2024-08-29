@@ -2,3 +2,4 @@
 <h2>can switch next step and previous step by arrow button</h2>
 <h3>Random positon when neighbors have the same value</h3>
 <img src="./image.png">
+<img src="./Screenshot 2024-08-30 004312.png">
